@@ -1,0 +1,83 @@
+html{
+    font-size: 62.5%
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    padding: 10rem;
+    background-image: url('https://btlive.tv/wp-content/uploads/2020/11/171115171-1140x474.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-bottom: 0;
+}
+
+header h1{
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+header p{
+    padding-bottom: 5rem;
+}
+
+main{
+    padding-top: 8rem;
+    background: linear-gradient(rgb(11, 142, 230),rgb(140, 207, 252));
+    background-repeat: no-repeat;
+    
+ }
+.imagen-central{
+    max-width: 45rem;
+    margin: auto;
+    object-fit: cover;
+    margin-bottom: 3rem;
+}
+
+img{
+    width: 100%;
+    box-shadow: 0 0 2rem black;
+}
+
+section h2{
+    font-size: 2.2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
+
+section p{
+    text-align: center;
+    margin-bottom: 1.2rem;
+}
+
+.enlace{
+    text-align: center;
+    padding-bottom: 5rem;
+    margin-bottom: 0;
+}
+
+.enlace a{
+    color: white;
+    text-decoration: none;
+}
+
+
+footer{
+    background-color: rgb(54, 54, 104);
+}
+
+footer p{
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+
+
